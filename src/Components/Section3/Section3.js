@@ -37,6 +37,7 @@ const Section3 = (props) => {
     };
     console.log();
 
+
     return (
         <Card className={classes.section3}>
             <div className={classes.section3}>
